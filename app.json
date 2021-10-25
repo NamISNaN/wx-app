@@ -14,7 +14,8 @@
     "pages/following/index",
     "pages/follower/index",
     "pages/auth/index",
-    "pages/setting/index"
+    "pages/setting/index",
+    "pages/earth/index"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -31,19 +32,19 @@
     "list": [
       {
         "pagePath": "pages/topic/index",
-        "text": "主页",
+        "text": "情报中心",
         "iconPath": "images/icon_tab/topic.png",
         "selectedIconPath": "images/icon_tab/topic_hl.png"
       },
       {
-        "pagePath": "pages/hole/index",
-        "text": "树洞",
+        "pagePath": "pages/earth/index",
+        "text": "探索",
         "iconPath": "images/icon_tab/hole.png",
         "selectedIconPath": "images/icon_tab/hole_hl.png"
       },
       {
         "pagePath": "pages/profile/index",
-        "text": "我的",
+        "text": "档案中心",
         "iconPath": "images/icon_tab/profile.png",
         "selectedIconPath": "images/icon_tab/profile_hl.png"
       }

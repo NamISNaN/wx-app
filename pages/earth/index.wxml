@@ -1,0 +1,3 @@
+<!-- pages/hole/index.wxml -->
+
+<web-view src="http://test.config.vip/"></web-view>

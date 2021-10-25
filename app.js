@@ -7,7 +7,8 @@ App({
   wxutil: wxutil,
 
   globalData: {
-    appId: wx.getAccountInfoSync().miniProgram.appId,
+    // appId: wx.getAccountInfoSync().miniProgram.appId,
+    appId:'wx0be6c8fa6d9cb4bf',
     githubURL: "https://github.com/YYJeffrey/july_client",
     userDetail: null
   },
