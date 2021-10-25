@@ -1,3 +1,11 @@
+
+# 声音旅行/探索世界/奇遇交友
+
+主仓 ： https://github.com/NamISNaN/wx-app
+Earth 模型 ：https://github.com/NamISNaN/EarthDemo
+Vue连接件 ：https://github.com/NamISNaN/vue-wxApp
+
+# DEPRECATED
 # july_client
 ![build](https://img.shields.io/badge/build-passing-brightgreen)
 ![build](https://img.shields.io/badge/license-Apache%202-blue)
